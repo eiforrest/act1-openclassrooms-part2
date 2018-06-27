@@ -1,0 +1,14 @@
+.item-header {
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+    justify-content: space-between;
+
+    .item-italic{
+        font-style: italic;
+    }
+}
+
+.item-button{
+    padding-top: 20px;
+}
